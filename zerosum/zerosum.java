@@ -6,7 +6,7 @@ TASK: zerosum
 
 // USACO Training, Chapter 2.3
 // Problem 3. Zero Sum
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;

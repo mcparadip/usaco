@@ -6,7 +6,7 @@ TASK: concom
 
 // USACO Training, Chapter 2.3
 // Problem 5. Controlling Companies
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;

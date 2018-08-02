@@ -6,7 +6,7 @@ TASK: money
 
 // USACO Training, Chapter 2.3
 // Problem 4. Money Systems
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;

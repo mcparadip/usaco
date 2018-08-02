@@ -6,7 +6,7 @@ TASK: nocows
 
 // USACO Training, Chapter 2.3
 // Problem 2. Cow Pedigrees
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;

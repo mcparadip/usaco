@@ -6,7 +6,7 @@ TASK: ttwo
 
 // USACO Training, Chapter 2.4
 // Problem 2. The Tamworth Two
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;

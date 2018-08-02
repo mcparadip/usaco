@@ -6,7 +6,7 @@ TASK: runround
 
 // USACO Training, Chapter 2.2
 // Problem 5. Runaround Numbers
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;

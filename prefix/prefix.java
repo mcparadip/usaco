@@ -6,7 +6,7 @@ TASK: prefix
 
 // USACO Training, Chapter 2.3
 // Problem 1. Longest Prefix
-// Not yet tested
+// **********
 
 import java.io.File;
 import java.io.IOException;
