@@ -1,27 +1,6 @@
 // USACO 2008 February, Silver
 // Problem 2. Meteor Shower
-// Not yet tested
-
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.PrintWriter;
-
-public class identifier {
-
-    
-
-    public static void main(String[] args) throws IOException {
-
-        BufferedReader in = new BufferedReader(new FileReader("identifier.in"));
-        in.close();
-
-        PrintWriter out = new PrintWriter("identifier.out");
-        out.close();
-
-    }
-
-}
+// ********
 
 import java.io.BufferedReader;
 import java.io.FileReader;
