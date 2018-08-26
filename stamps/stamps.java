@@ -6,7 +6,7 @@ TASK: stamps
 
 // USACO Training, Chapter 3.1
 // Problem 6. Stamps
-// Not yet tested
+// **********
 
 import java.util.Arrays;
 import java.util.Scanner;

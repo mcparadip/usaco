@@ -1,6 +1,6 @@
 // USACO 2017 February, Gold
 // Problem 2. Why Did the Cow Cross the Road II
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;

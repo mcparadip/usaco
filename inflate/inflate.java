@@ -6,7 +6,7 @@ TASK: inflate
 
 // USACO Training, Chapter 3.1
 // Problem 3. Score Inflation
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;

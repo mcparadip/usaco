@@ -6,7 +6,7 @@ TASK: contact
 
 // USACO Training, Chapter 3.1
 // Problem 5. Contact
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;
