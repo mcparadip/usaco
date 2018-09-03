@@ -6,7 +6,7 @@ TASK: kimbits
 
 // USACO Training, Chapter 3.2
 // Problem 3. Stringsorbits
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -6,7 +6,7 @@ TASK: spin
 
 // USACO Training, Chapter 3.2
 // Problem 4. Spinning Wheels
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.FileReader;
