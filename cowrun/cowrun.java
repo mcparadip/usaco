@@ -1,6 +1,6 @@
 // A-Star Platinum, Week 1
 // Problem 2. Running
-// Not yet tested
+// **********
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
